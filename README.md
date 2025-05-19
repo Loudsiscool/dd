@@ -9,6 +9,7 @@
 **Required Resolution:** 1920x1080\
 **Required Scale:** 100%\
 **AHK Version:** AutoHotkey v2.0.19+
+
 **Units:** 2nd slot hill, 6th slot farm
 
 
